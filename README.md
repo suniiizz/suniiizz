@@ -1,5 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=%20Hello%20My%20GitHub%20👋%20&animation=blink&fontColor=eeeeee&fontSize=40&textBg=true&fontAlign=50)
 
+<br/><br/>
+<h2 align=center><b>:computer: My project :computer:</b></h2>
+<table>
+  <tbody>
+	  <tr>
+			<td>
+				<a href="https://suniiizz.github.io/portfolio/" title="sunny portfolio">
+						<img align="center" src="img/sunny portfolio.png" alt="sunny portfolid img">
+				</a>
+			</td>
+			<td>
+				<a href="https://suniiizz.github.io/ffroi/" title="ffroi">
+						<img align="center" src="img/ffroi.png" alt="ffroi img">
+				</a>
+			</td>
+			<td>
+				<a href="https://suniiizz.github.io/hyundaicar/" title="hyundaicar">
+						<img align="center" src="img/hyundaicar.png" alt="hyundaicar img">
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td align="center"><span>Portfolio</span></td>
+			<td align="center"><span>ffroi renewal site</span></td>
+			<td align="center"><span>Hyundaicar clone coding</span></td>
+		</tr>
+  </tbody>
+</table>
 
 <br/><br/>
 <h2 align=center>:books: Study Note :books:</h2>
@@ -28,32 +56,3 @@
 	
 </div>
 
-
-<br/><br/><br/>
-<h2 align=center><b>:computer: My project :computer:</b></h2>
-<table>
-  <tbody>
-	  <tr>
-			<td>
-				<a href="https://suniiizz.github.io/portfolio/" title="sunny portfolio">
-						<img align="center" src="img/sunny portfolio.png" alt="sunny portfolid img">
-				</a>
-			</td>
-			<td>
-				<a href="https://suniiizz.github.io/ffroi/" title="ffroi">
-						<img align="center" src="img/ffroi.png" alt="ffroi img">
-				</a>
-			</td>
-			<td>
-				<a href="https://suniiizz.github.io/hyundaicar/" title="hyundaicar">
-						<img align="center" src="img/hyundaicar.png" alt="hyundaicar img">
-				</a>
-			</td>
-		</tr>
-		<tr>
-			<td align="center"><span>Portfolio</span></td>
-			<td align="center"><span>ffroi renewal site</span></td>
-			<td align="center"><span>Hyundaicar clone coding</span></td>
-		</tr>
-  </tbody>
-</table>

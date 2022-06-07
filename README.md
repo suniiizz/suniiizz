@@ -19,7 +19,7 @@
   ![HTML5](https://img.shields.io/badge/HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
   ![CSS3](https://img.shields.io/badge/CSS3-007ACC?style=for-the-badge&logo=css3)
   ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery)
-	![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
+	![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
 	<br/><br/>
 	<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" style="max-width: 100%;"></code>
 	<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" style="max-width: 100%;"></code>

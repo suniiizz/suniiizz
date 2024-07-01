@@ -4,7 +4,7 @@
 <br/><br/>
 <h2 align=center>:books: Study Note :books:</h2>
 <div align=center>
-  <a href="[https://www.notion.so/CSS-b85cc470c15c4728bc71181483957285](https://suniiizz.notion.site/Study-Note-5ecca6fc542c4778bc396e6516f132f2?pvs=4)" target="_"><img height="30" src="img/notion.svg" alt="Notion img"></a>
+  <a href="https://suniiizz.notion.site/Study-Note-5ecca6fc542c4778bc396e6516f132f2?pvs=4" target="_"><img height="30" src="img/notion.svg" alt="Notion img"></a>
 </div>
 
 

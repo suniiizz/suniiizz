@@ -4,7 +4,7 @@
 <br/><br/>
 <h2 align=center>:books: Study Note :books:</h2>
 <div align=center>
-  <a href="[https://www.notion.so/CSS-b85cc470c15c4728bc71181483957285](https://suniiizz.notion.site/Study-Note-5ecca6fc542c4778bc396e6516f132f2?pvs=4)" target="_"><img src="img/notion.svg" alt="Notion img"></a>
+  <a href="[https://www.notion.so/CSS-b85cc470c15c4728bc71181483957285](https://suniiizz.notion.site/Study-Note-5ecca6fc542c4778bc396e6516f132f2?pvs=4)" target="_"><img height="30" src="img/notion.svg" alt="Notion img"></a>
 </div>
 
 
@@ -30,30 +30,5 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suniiizz&layout=compact)
 </div>
-
-
-<br/><br/>
-<h2 align=center><b>:computer: My project :computer:</b></h2>
-<table>
-  <tbody>
-	  <tr>
-			<td>
-				<a href="https://suniiizz.github.io/portfolio/" title="sunny portfolio">
-						<img align="center" src="img/sunny portfolio.png" alt="sunny portfolid img">
-				</a>
-			</td>
-			<td>
-				<a href="/" title="kakao-book-search">
-						<img align="center" src="img/book-search-table.png" alt="book-search-table img">
-				</a>
-			</td>
-			
-	</tr>
-	<tr>
-		<td align="center"><span>Portfolio</span></td>
-		<td align="center"><span>Kakao-book-search</span></td>
-	</tr>
-  </tbody>
-</table>
 
 
